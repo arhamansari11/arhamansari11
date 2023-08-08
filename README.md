@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arham</h1>
 <h3 align="center">I,m a Developer, Coder and researcher!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamansari11&label=Profile%20views&color=0e75b6&style=flat" alt="arhamansari11" /> </p>
-
 - 🔭 I’m currently working as a **FULL Stack Engineer.**
 
 - 🌱 I’m currently learning **React JS**

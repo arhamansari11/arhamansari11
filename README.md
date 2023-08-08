@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Muhammad Arham</h1>
-<h3 align="center">I,m a Developer, Coder and researcher!</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Arham</h1>
+<h3 align="left">I,m a Developer, Coder and researcher!</h3>
 
 - 🔭 I’m currently working as a **FULL Stack Engineer.**
 

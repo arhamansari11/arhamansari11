@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamansari11&label=Profile%20views&color=0e75b6&style=flat" alt="arhamansari11" /> </p>
 
-- 🔭 I’m currently working as a **MERN Stack Engineer.**
+- 🔭 I’m currently working as a **FULL Stack Engineer.**
 
 - 🌱 I’m currently learning **React JS**
 
@@ -14,6 +14,8 @@
 
 - 🤝 I’m looking to **do Open-Source Contribution**
 
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+  
 - 📫 How to reach me **arham96100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -7,6 +7,7 @@
 - 💪 I'm skilled in the Full stack development.
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 - 🤝 I’m looking to **do Open-Source Contribution**
+- ⚡ Fun fact I am Funny
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **arham96100@gmail.com**
 - 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞

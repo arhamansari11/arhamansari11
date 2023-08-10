@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhamansari11&show_icons=true&locale=en&layout=compact" alt="arhamansari11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&" alt="arhamansari11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&&theme=tokyonight" alt="arhamansari11" /></p>

@@ -3,11 +3,12 @@
 <h3 align="left">I,m a Developer, Coder and researcher!</h3>
 
 - 🔭 I’m currently working as a **FULL Stack Engineer.**
-- 🌱 I’m currently learning **React JS**
 - 💪 I'm skilled in the Full stack development.
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 - 🤝 I’m looking to **do Open-Source Contribution**
 - ⚡ Fun fact I am Funny
+- 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
+- • 💬 Ask me about Full Stack.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **arham96100@gmail.com**
 - 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞

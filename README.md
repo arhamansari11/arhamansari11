@@ -28,4 +28,4 @@
 <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhamansari11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arhamansari11" /></p>
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=arhamansari11&show_icons=true&locale=en&theme=tokyonight" alt="arhamansari11" /></p>
 
-<p><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&&theme=tokyonight" alt="arhamansari11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&&theme=tokyonight" alt="arhamansari11" /></p>

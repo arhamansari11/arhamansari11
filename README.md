@@ -27,14 +27,14 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=ads-juicy-fresh" />
 </a>
 </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=crypticfate5&label=PROFILE+VIEWS&style=plastic) -->
-<p align="center">
+<p align="left">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&theme=github_dark" />
   <br>

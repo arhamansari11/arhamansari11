@@ -15,6 +15,7 @@
 - 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞
 
 <h3 align="left">Connect with me:</h3>
+<hr></hr>
 <p align="left">
 <a href="https://instagram.com/coding.master_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding.master" height="30" width="40" /></a>
   <a href="https://twitter.com/ArhamAnsari1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliaalam_dev" height="30" width="40" /></a>

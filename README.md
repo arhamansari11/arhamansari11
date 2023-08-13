@@ -5,9 +5,7 @@
 
 
 - 🔭 I’m currently working as a **FULL Stack Engineer.**
-- 💪 I'm skilled in the Full stack development.
 - 👯 I’m looking to collaborate **with other content creators and developers.**
-- 🤝 I’m looking to **do Open-Source Contribution**
 - ⚡ Fun fact I am Funny
 - 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
 - 🥅 2023 Goals: Contribute more to Open Source projects.

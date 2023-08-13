@@ -4,7 +4,7 @@
 ## I,m a Developer, Coder and researcher!
 
 
-- 🔭 I’m currently working as a **FULL Stack Engineer.**
+- 🔭 Currently working as a **FULL Stack Engineer.**
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 - 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
 - ⚡ Fun fact I am Funny

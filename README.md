@@ -11,7 +11,7 @@
 - 🤍 Love to learn new Technologies.
 - 💬 Ask me about Full Stack.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **arham96100@gmail.com**
+- 📫 How to reach me **arham96100@gmail.com**.
 - 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞
 
  ## Connect with me:

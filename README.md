@@ -7,7 +7,8 @@
 - 🔭 Currently working as a **FULL Stack Engineer.**
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 - 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
-- ⚡ Fun fact I am Funny
+- ⚡ Fun fact I am Funny.
+- 💙 Love to learn new technologies.
 - 💬 Ask me about Full Stack.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **arham96100@gmail.com**

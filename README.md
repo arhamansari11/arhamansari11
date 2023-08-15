@@ -13,7 +13,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **arham96100@gmail.com**.
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
-- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights. Together, we can create remarkable digital solutions that leave a lasting impact.💼✨
+- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
  ## Connect with me:
 <p align="left">

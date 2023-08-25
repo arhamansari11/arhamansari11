@@ -25,7 +25,7 @@
 
 
 ## 🧑‍💻 Tech Stack 🛠️
-<div align="center">
+<div align="left">
   <a href="https://github.com/umairazmat">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>

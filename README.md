@@ -24,7 +24,7 @@
 </p>
 
 
-## 🧑‍💻 Tech Stack 🛠️
+## Tech Stack 🛠️
 <div align="left">
   <a href="https://github.com/arhamansari11">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,redux,php,mysql,figma,netlify,vscode,git,github,vscodeqt&perline=5" />

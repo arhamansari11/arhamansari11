@@ -29,6 +29,7 @@
 <a href="https://www.linkedin.com/in/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arham96100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100069458314356" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/itx.arham_" target="_blank"> <img src="https://img.shields.io/badge/-itx.arham_-FFFC00?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 

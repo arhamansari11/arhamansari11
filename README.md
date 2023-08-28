@@ -31,6 +31,8 @@
 <a href="https://www.facebook.com/profile.php?id=100069458314356" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/itx.arham_" target="_blank"> <img src="https://img.shields.io/badge/-itx.arham_-FFFC00?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/ArhamAnsari1109" target="_blank"><img src="https://img.shields.io/badge/-ArhamAnsari1109-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://leetcode.com/arhamansari11" target="_blank"><img src="https://img.shields.io/badge/-arhamansari11-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+
 </p>
 
 

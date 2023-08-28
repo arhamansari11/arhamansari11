@@ -25,7 +25,6 @@
 </div>
 
  ## Connect with me🤝:
- <a href="http://portfolio-arham.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/-portfolio--arham.surge.sh-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arham96100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100069458314356" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>

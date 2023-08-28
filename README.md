@@ -17,13 +17,12 @@
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
  ## Connect with me🤝:
-<p align="left">
-<a href="https://instagram.com/coding.master_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding.master" height="30" width="40" /></a>
-  <a href="https://twitter.com/ArhamAnsari1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliaalam_dev" height="30" width="40" /></a>
-
+<p align="center">
+<a href="https://ahmad-jajja.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-ahmadjajja.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-jajja-ba8b34210/" target="_blank"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmadjajja86@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ahmadjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/ahmad.jajja.9081/" target="_blank"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
 ## Tech Stack🛠️:
 <div align="left">
   <a href="https://github.com/arhamansari11">

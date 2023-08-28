@@ -16,12 +16,6 @@
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
- ## Connect with me🤝:
-<a href="https://ahmad-jajja.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-ahmadjajja.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-arham-8b556828a/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:arham96100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100069458314356" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
 
 ## Tech Stack🛠️:
 <div align="left">
@@ -29,6 +23,15 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,redux,php,mysql,figma,netlify,vscode,git,github,vscodeqt&perline=5" />
   </a>
 </div>
+ ## Connect with me🤝:
+<a href="https://ahmad-jajja.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-ahmadjajja.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-arham-8b556828a/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:arham96100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100069458314356" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+
+
 <p align="left">
  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>

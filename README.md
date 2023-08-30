@@ -47,9 +47,8 @@
 </p>
 <p align="left">
 <a href="https://github.com/arhamansari11/">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&theme=midnight-purple" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&theme=github_dark" />
   <br>
-<!--   github_dark -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhamansari11&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&theme=github_dark" />
 </a>    

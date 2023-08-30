@@ -40,9 +40,13 @@
 </a>
 </p>
 <p align="left">
-  <a href="https://git.io/streak-stats">
+<!--   <a href="https://git.io/streak-stats">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=ads-juicy-fresh" />
+</a> -->
+  <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=nord" />
 </a>
+
 </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=crypticfate5&label=PROFILE+VIEWS&style=plastic) -->

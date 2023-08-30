@@ -51,7 +51,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=crypticfate5&label=PROFILE+VIEWS&style=plastic) -->
 <p align="left">
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<a href="https://github.com/arhamansari11/">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&theme=github_dark" />
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhamansari11&theme=github_dark" />

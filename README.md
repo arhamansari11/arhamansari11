@@ -41,7 +41,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/arhamansari11/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=vue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=github-dark" />
 </a>
 
 </p>

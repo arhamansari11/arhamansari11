@@ -44,7 +44,7 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=ads-juicy-fresh" />
 </a> -->
   <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=nord" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=calm" />
 </a>
 
 </p>

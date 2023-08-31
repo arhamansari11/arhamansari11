@@ -23,6 +23,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,redux,php,mysql,figma,netlify,vscode,git,github,vscodeqt&perline=5" />
   </a>
 </div>
+
  ## Connect with me🤝:
 <a href="https://www.linkedin.com/in/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arham96100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>

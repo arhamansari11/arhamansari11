@@ -39,11 +39,7 @@
  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
 </p>
-<p align="left">
-  <a href="https://github.com/arhamansari11/">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=midnight-purple&hide_border=true" />
-  </a>
-</p>
+
 
 </p>
 <p align="left">

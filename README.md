@@ -50,7 +50,6 @@
       <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
-</p>
 <p align="left">
 <a href="https://github.com/arhamansari11/">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&theme=github_dark" />

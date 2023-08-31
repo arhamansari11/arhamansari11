@@ -35,27 +35,3 @@
 
 
 
-<p align="left">
-  <a>
- <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
- </a>
-</p>
-<!-- <p align="left">
-  <a href="https://github.com/arhamansari11/">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stars"/>
-  </a>
-</p> -->
-<p align="left">
-  <a href="https://github.com/arhamansari11">
-      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=midnight-purple&hide_border=true" />
-  </a>
-</p>
-<p align="left">
-<a href="https://github.com/arhamansari11/">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&theme=github_dark" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhamansari11&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&theme=github_dark" />
-</a>    
-</p>
-<p></p>

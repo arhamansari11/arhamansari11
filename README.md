@@ -32,6 +32,9 @@
 <a href="https://twitter.com/ArhamAnsari1109" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://leetcode.com/arhamansari11" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/arhama11"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
+
+ ## GitHub Analytics⚙️:
+
 <p align="left">
   <a href="https://github.com/arhamansari11/">
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stars"/>
@@ -49,6 +52,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhamansari11&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&theme=github_dark" />
 </a>    
+</p> -->
+<!-- <p align="left">
+  <a>
+ <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+ </a>
 </p> -->
 
 

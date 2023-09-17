@@ -42,16 +42,14 @@
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stars"/>
   </a>
 <a href="https://github.com/arhamansari11">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=purple&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&layout=compact&langs_count=8&theme=purple&hide_border=true" />
 </a>
-
-
 </p>     
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="https://github.com/arhamansari11" target="_blank">
-      <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+      <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
     </a>
   </div>
 </div>

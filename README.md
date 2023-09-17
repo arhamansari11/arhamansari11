@@ -42,14 +42,14 @@
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stars"/>
   </a>
 </p>     
-<p align="left">
-<a href="https://github.com/arhamansari11/">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&theme=github_dark" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhamansari11&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&theme=github_dark" />
-</a>    
-</p> 
+<div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=midnight-purple" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&show_icons=true&theme=midnight-purple" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arhamansari11&show_icons=true&theme=midnight-purple" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+  </div>
+</div>
+
 <!-- <p align="left">
   <a>
  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />

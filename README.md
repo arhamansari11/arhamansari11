@@ -49,7 +49,7 @@
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="https://github.com/arhamansari11" target="_blank">
-      <img width="93%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+      <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
     </a>
   </div>
 </div>

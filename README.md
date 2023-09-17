@@ -44,11 +44,12 @@
 </p>     
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=midnight-purple" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&show_icons=true&theme=midnight-purple" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arhamansari11&show_icons=true&theme=midnight-purple" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
   </div>
 </div>
+
 
 <!-- <p align="left">
   <a>

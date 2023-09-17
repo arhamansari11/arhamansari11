@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://github.com/arhamansari11/">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=gotham&hide_border=true" alt="GitHub Streak Stars"/>
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=ocean-dark&hide_border=true" alt="GitHub Streak Stars"/>
   </a>
 </p>     
 <p align="left">

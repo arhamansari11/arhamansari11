@@ -41,17 +41,14 @@
   <a href="https://github.com/arhamansari11/">
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stars"/>
   </a>
+   <a href="https://github.com/arhamansari11">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmadjajja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>     
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="https://github.com/arhamansari11" target="_blank">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    </a>
-    <a href="https://github.com/arhamansari11" target="_blank">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    </a>
-    <a href="https://github.com/arhamansari11" target="_blank">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
     </a>
   </div>
 </div>

@@ -49,21 +49,8 @@
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="https://github.com/arhamansari11" target="_blank">
-      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+      <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
     </a>
   </div>
 </div>
-
-
-
-
-
-<!-- <p align="left">
-  <a>
- <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
- </a>
-</p> -->
-
-
-
 

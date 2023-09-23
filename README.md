@@ -42,8 +42,8 @@
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stars"/>
   </a>
 <a href="https://github.com/arhamansari11">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=react&border=61dafb&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&layout=compact&langs_count=8&theme=react&border=61dafb&hide_border=true" />
 </a>
 </p>     
 <div>

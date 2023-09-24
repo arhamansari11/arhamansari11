@@ -39,21 +39,12 @@
   <a href="https://github.com/arhamansari11/">
       <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=gotham&border=61dafb&hide_border=true" alt="GitHub Streak Stars"/>
    </a> 
-
-<a href="https://github.com/arhamansari11/">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=arhamansari11&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
-</a>
-<a href="https://github.com/arhamansari11/">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansari11&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</a>
-
+   <a href="https://github.com/arhamansari11/">
+     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api? 
+         username=arhamansari11&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+   </a>
+   <a href="https://github.com/arhamansari11/">
+     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?         
+        username=arhamansari11&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+   </a>
 </p>
-
-<div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <a href="https://github.com/arhamansari11" target="_blank">
-      <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamansari11&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-    </a>
-  </div>
-</div>
-

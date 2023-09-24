@@ -36,9 +36,9 @@
 
  ## GitHub Analytics⚙️:
 <p align="left">
- <a href="https://github.com/arhamansari11/">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=nord&border=61dafb&hide_border=true" alt="GitHub Streak Stars"/>
-    </a> 
+  <a href="https://github.com/arhamansari11/">
+      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=gotham&border=61dafb&hide_border=true" alt="GitHub Streak Stars"/>
+   </a> 
 
 <a href="https://github.com/arhamansari11/">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=arhamansari11&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>

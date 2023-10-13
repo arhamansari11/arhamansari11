@@ -1,7 +1,7 @@
 
 # Hi there, I'm Muhammad Arham 👋.
 
-## I,m a Developer, Programmer and researcher! 
+## I,m a Developer, Programmer and researcher 
 
 
 - 🔭 Currently working as FULL Stack Engineer.

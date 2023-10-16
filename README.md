@@ -34,7 +34,7 @@
 <a href="https://leetcode.com/arhamansari11" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/arhama11"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
 
- ## GitHub Analytics⚙️:
+ ## 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 📈:
 
 <p align="left">
   <a href="https://github.com/arhamansari11/">

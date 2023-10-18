@@ -45,13 +45,17 @@
 
  ## Github Stats📈:
 
-<p align="left">
-  <a href="https://github.com/arhamansari11/">
-      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=midnight-purple&border=61dafb&hide_border=true" alt="GitHub Streak Stars"/>
-   </a> 
-<a href="https://github.com/arhamansari11">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-</a>
 
-</p>
+
+
+   <p align="center">
+        <a href="https://github.com/arhamansari11">
+            <img height="180em"
+                src="https://github-readme-stats-sigma-five.vercel.app/api?username=arhamansari11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+            <img height="180em"
+                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=algolia" />
+        </a>
+        <img width="50%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+    </p>
+

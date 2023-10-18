@@ -4,11 +4,14 @@
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I am Coder;I am Programmer;I am Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Love to code;I am Programmer;I am Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
 </p>
 
 <img src="/header1.png" >
-<!-- - 🔭 Currently working as FULL Stack Engineer.
+
+
+<!-- Bio -->
+- 🔭 Currently working as FULL Stack Engineer.
 - 📌 One Rule: Don't Repeat Yourself in Coding.
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 - 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
@@ -18,22 +21,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **arham96100@gmail.com**.
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
-- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights. -->
-
-<!-- Bio -->
-- 👋 Hello! I'm Umair Azmat, a Software Engineering student with a strong foundation and notable projects
-- 💪 I'm skilled in the MERN stack, WordPress, and front-end development. 
-- 🔭 Currently working As Full Stack Engineer.
-- ⚙️ My advanced skills include HTML/CSS, Bootstrap, JavaScript, CSharp, React, Angular, Next.js, MongoDB, MySQL, and SQL WorkBench.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/umairazmat/)**.
-- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
-- 👨‍🏫 Former Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students.
-- 🥅 2023 Goals: Expand my knowledge and skills in software development.
-- 📫 How to reach me **umairazmatdev@gmail.com**
-- 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞
-- 🤝 Let's connect and explore how I can contribute to your projects or
+- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
 
 ## Tech Stack🛠️:

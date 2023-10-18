@@ -23,6 +23,12 @@
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
+## Tech Stack🛠️:
+<div align="center">
+   <a href="https://github.com/arhamansari11"> 
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,materialui,php,mysql,firebase,git,github,figma,vscode,netlify,discord,vscodeqt&perline=6" /> 
+    </a>
+</div>
 
  ## Connect with me🤝:
  <div align="center">
@@ -34,13 +40,6 @@
 <a href="https://leetcode.com/arhamansari11" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/arhama11"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
  </div>
-
-## Tech Stack🛠️:
-<div align="center">
-   <a href="https://github.com/arhamansari11"> 
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,materialui,php,mysql,firebase,git,github,figma,vscode,netlify,discord,vscodeqt&perline=6" /> 
-    </a>
-</div>
 
 
  ## Github Stats📈:

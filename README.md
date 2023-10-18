@@ -4,8 +4,9 @@
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Love to code;I am Programmer;I am Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Love%20to%20code;I%20am%20Programmer;I%20am%20Full%20Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=500">
 </p>
+
 
 <img src="/header1.png" >
 

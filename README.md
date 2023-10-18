@@ -36,9 +36,9 @@
  </div>
 
 ## Tech Stack🛠️:
-<div align="left">
+<div align="center">
    <a href="https://github.com/arhamansari11"> 
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,materialui,php,mysql,firebase,git,github,figma,vscode,netlify,discord,vscodeqt&perline=5" /> 
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,materialui,php,mysql,firebase,git,github,figma,vscode,netlify,discord,vscodeqt&perline=6" /> 
     </a>
 </div>
 

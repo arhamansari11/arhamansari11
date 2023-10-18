@@ -24,14 +24,6 @@
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
 
-## Tech Stack🛠️:
-<div align="left">
-   <a href="https://github.com/arhamansari11"> 
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,materialui,php,mysql,firebase,git,github,figma,vscode,netlify,discord,vscodeqt&perline=5" /> 
-    </a>
-</div>
-
-
  ## Connect with me🤝:
 <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arham96100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -40,6 +32,14 @@
 <a href="https://twitter.com/ArhamAnsari1109" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://leetcode.com/arhamansari11" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/arhama11"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
+
+## Tech Stack🛠️:
+<div align="left">
+   <a href="https://github.com/arhamansari11"> 
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,materialui,php,mysql,firebase,git,github,figma,vscode,netlify,discord,vscodeqt&perline=5" /> 
+    </a>
+</div>
+
 
  ## Github Stats📈:
 

@@ -63,7 +63,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/arhamansari11">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=algolia">
   </a>
 </div>
 

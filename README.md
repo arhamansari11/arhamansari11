@@ -56,5 +56,14 @@
   <a href="https://github.com/arhamansari11">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=algolia&hide_border=true" />
   </a>
-</p>
+</p
+
+<br>
+<hr>
+<br>
+<div align="center">
+  <a href="https://github.com/arhamansari11">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+</div>
 

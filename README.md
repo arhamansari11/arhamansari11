@@ -10,7 +10,6 @@
 </p>
 
 
-<img src="/header1.png" >
 
 
 <!-- Bio -->

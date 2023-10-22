@@ -1,7 +1,7 @@
 
 
 <a href="https://github.com/arhamansari11">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,issues,repositories,stars,commits&theme=nautilus">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=issues,repositories,stars,commits&theme=nautilus">
  </a>
 <p align="center">
     <a href="https://github.com/arhamansari11">

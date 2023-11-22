@@ -13,7 +13,7 @@
 
 
 <!-- Bio -->
-- 🔭 Currently working as FULL Stack Engineer
+- 🔭 Currently working as FULL Stack Engineer.
 - 📌 One Rule: Don't Repeat Yourself in Coding.
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 - 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.

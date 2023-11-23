@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/arhamansari11">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=algolia&hide_border=true" />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&theme=algolia&hide_border=true" />
   </a>
 </p
 

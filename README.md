@@ -28,7 +28,7 @@
 ## Tech Stack🛠️:
 <div align="center">
    <a href="https://github.com/arhamansari11"> 
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui,git,github,figma,vscode,php,mysql,firebase,nodejs,express,mongodb,postman,netlify,vite,vercel,discord,stackoverflow,vscodeqt&perline=6" /> 
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui,git,github,figma,vscode,postman,php,mysql,firebase,nodejs,express,mongodb,netlify,vite,vercel,discord,stackoverflow,vscodeqt&perline=6" /> 
     </a>
 </div>
 

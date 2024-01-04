@@ -16,11 +16,12 @@
 - 🔭 Currently working as MERN Stack Engineer.
 - 📌 One Rule: Don't Repeat Yourself in Coding.
 - 👯 I’m looking to collaborate **with other content creators and developers.**
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
 - 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
 - ⚡ Fun fact I am Funny.
 - 🤍 Love to learn new Technologies.
 - 💬 Ask me about React and Javascript.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **arham96100@gmail.com**.
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.

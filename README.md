@@ -5,7 +5,7 @@
 </a>
 <p align="center">
     <a href="https://github.com/arhamansari11">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer;I%20am%20MERN%20Stack%20Developer;Love%20to%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=300">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer;I%20am%20a%20MERN%20Stack%20Developer;Love%20to%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=300">
     </a>
 </p>
 

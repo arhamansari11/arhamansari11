@@ -16,7 +16,7 @@
 - 🔭 Currently working as MERN Stack Engineer.
 - 📌 One Rule: Don't Repeat Yourself in Coding.
 - 👯 I’m looking to collaborate **with other content creators and developers.**
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/arhamansari11/)** in C++.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/arhamansari11/)** in JAVA.
 - 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
 - ⚡ Fun fact I am Funny.
 - 🤍 Love to learn new Technologies.

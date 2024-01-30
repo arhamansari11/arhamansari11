@@ -26,7 +26,7 @@
 
 
 ## My Skill Set 🛠️:
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="43%">
 
 ### Frontend  
 <div align="center">  
@@ -40,7 +40,7 @@
       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="43%">
   
 ### Others
 <div align="center">

@@ -33,7 +33,7 @@
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="43%">
 
 ### Backend  
 <div align="center">   

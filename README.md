@@ -46,6 +46,10 @@
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 
 </div>
+### Others
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 
+</div>
 </td></tr></table>
 
 

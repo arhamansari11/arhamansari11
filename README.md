@@ -10,8 +10,6 @@
 </p>
 
 
-
-
 <!-- Bio -->
 - 🔭 Currently working as MERN Stack Engineer.
 - 📌 One Rule: Don't Repeat Yourself in Coding.
@@ -46,7 +44,7 @@
   
 ### Others
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 
 </div>
 </td></tr></table>
 

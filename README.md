@@ -86,7 +86,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/surge-icon.svg" alt="Surge" height="50" />   -->
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
-/td></tr></table>
+</td></tr></table>
 
 
  ## Connect with me🤝:

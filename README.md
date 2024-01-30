@@ -74,7 +74,7 @@
   
 ### Others
 <div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<!--   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-icon.svg" alt="GitHub" height="50" />  
@@ -83,7 +83,8 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio-code-icon.svg" alt="VSCode" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel-icon.svg" alt="Vercel" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-icon.svg" alt="Postman" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/surge-icon.svg" alt="Surge" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/surge-icon.svg" alt="Surge" height="50" />   -->
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=3" /> 
 </div>
 
 

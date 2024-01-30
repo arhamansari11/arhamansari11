@@ -26,21 +26,21 @@
 
 
 ## My Skill Set 🛠️:
-<table align="center"><tr><td valign="top" width="43%">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
 </div>
 
-</td><td valign="top" width="43%">
+</td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">   
       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
 
-</td><td valign="top" width="43%">
+</td><td valign="top" width="33%">
   
 ### Others
 <div align="center">

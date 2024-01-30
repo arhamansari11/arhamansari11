@@ -26,7 +26,7 @@
 
 
 ## My Skill Set 🛠️:
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -42,10 +42,6 @@
 
 </td><td valign="top" width="33%">
   
-### Others
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 
-</div>
 ### Others
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 

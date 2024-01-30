@@ -23,8 +23,6 @@
 - 📫 How to reach me **arham96100@gmail.com**.
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
-- 
-<br></br>
 
 ## My Skill Set 🛠️:
 <table><tr><td valign="top" width="33%">

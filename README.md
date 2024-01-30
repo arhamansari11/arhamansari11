@@ -26,14 +26,14 @@
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
-## Tech Stack🛠️:
+<!--## Tech Stack🛠️:
 <div align="center">
    <a href="https://github.com/arhamansari11"> 
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui,git,github,cpp,figma,vscode,postman,php,mysql,firebase,nodejs,express,mongodb,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=6" /> 
     </a>
-</div>
+</div> -->
 
-<!--## My Skill Set  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -89,7 +89,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td></tr></table> -->
+</td></tr></table> 
 
 
  ## Connect with me🤝:

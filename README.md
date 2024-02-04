@@ -12,6 +12,10 @@
 ## About me🚀:
 I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Proficient in JavaScript. I have a passion for learning and sharing my knowledge with others as publicly as possible. I have experience working with React.js, Node.js, and MongoDB. I'm also familiar with TypeScript, Angular, and Linux. I'm currently diving deep into the MERN stack. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
 
+<table style="border: none;" >
+<tr>
+<td style="text-align: justify;" >
+
 <!-- Bio -->
 - 🔭 Currently working as MERN Stack Engineer.
 - 📌 One Rule: Don't Repeat Yourself in Coding.

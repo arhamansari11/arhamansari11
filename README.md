@@ -27,29 +27,33 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 
 ## My Skill Set 🛠️:
-<a href="https://github.com/arhamansari11">
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
+<a href="https://github.com/arhamansari11">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
 </div>
-
+</a>
 </td><td valign="top" width="33%">
 
 ### Backend  
+<a href="https://github.com/arhamansari11">
 <div align="center">   
       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
-
+</a>
 </td><td valign="top" width="33%">
   
 ### Others
+<a href="https://github.com/arhamansari11">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 
 </div>
-</td></tr></table>
 </a>
+</td></tr></table>
+
 
 
  ## Connect with me🤝:

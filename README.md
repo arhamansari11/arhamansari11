@@ -85,9 +85,54 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 #
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/arhamansari11">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
-</div>
+ </div> -->
+
+**COMPLETED HACKATHONS:**
+
+<p float="left">
+  <a href="https://lablab.ai/event/openai-hackathon/gatieon/text-laymanizer" target="_blank">
+    <img src="https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg" width="400">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/salz21-ai-hackathon/the-team" target="_blank">
+    <img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg" width="400">
+  </a>
+  &nbsp;
+    <a href="https://lablab.ai/event/multilingual-semantic-search-hackathon/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="400">
+  </a>
+  &nbsp; &nbsp;
+    <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg" width="400">
+  </a>
+  &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/230712035-3098279d-65b4-41ad-8e1c-6d12466fa8d3.jpg" width="400">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/stable-diffusion-ai-hackathon/youtube-thumbnails/youtube-thumbnails">
+    <img src="https://user-images.githubusercontent.com/89584431/230711856-878f4d96-e3c5-4a26-acf9-90a08b1979ef.jpeg" width="400">
+  </a>
+  <a>
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/aaa139b4-57ca-4568-8bcf-d86492a333d5" width="400">
+  </a>
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/90917306-1f50-46e4-a8b9-2b9981d444a5" width="400">
+  </a>
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/ai-agents-hackathon-2/viral-cuts/viral-clips">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/62cf67c7-6df6-4337-809a-8fd2e102b748" width="400">
+  </a>
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
+  </a>
+</p>
+
+#
 

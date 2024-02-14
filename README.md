@@ -91,11 +91,11 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
   </a>
  </div> -->
 
-**COMPLETED HACKATHONS:**
+## COMPLETED INTERNATIONAL HACKATHONS :
 
 <p float="left">
-  <a href="https://lablab.ai/event/openai-hackathon/gatieon/text-laymanizer" target="_blank">
-    <img src="https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg" width="400">
+  <a href="https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/speakjourney-team/speakjourney-language-platform" target="_blank">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_agcmu0jdf.webp" width="400">
   </a>
   &nbsp; &nbsp;
   <a href="https://lablab.ai/event/salz21-ai-hackathon/the-team" target="_blank">

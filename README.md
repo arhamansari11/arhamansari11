@@ -84,7 +84,6 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 #
 
-<br>
 <!-- <div align="center">
   <a href="https://github.com/arhamansari11">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
@@ -102,10 +101,10 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_6s3izi0enn.webp" width="400">
   </a>
   &nbsp;
-    <a href="https://lablab.ai/event/multilingual-semantic-search-hackathon/the-team">
-    <img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="400">
+    <a href="https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented/nutrition-chatbot">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="400">
   </a>
-  &nbsp; &nbsp;
+<!--   &nbsp; &nbsp;
     <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg" width="400">
   </a>
@@ -131,7 +130,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
    &nbsp; &nbsp;
   <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
-  </a>
+  </a> -->
 </p>
 
 #

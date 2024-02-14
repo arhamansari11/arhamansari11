@@ -90,7 +90,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
   </a>
  </div> -->
 
-## COMPLETED INTERNATIONAL HACKATHONS :
+## COMPLETED INTERNATIONAL HACKATHONS🥇:
 
 <p float="left">
   <a href="https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/speakjourney-team/speakjourney-language-platform" target="_blank">

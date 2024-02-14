@@ -81,7 +81,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
  </p 
 
 <br>
-<hr>
+#
 <br>
 <div align="center">
   <a href="https://github.com/arhamansari11">

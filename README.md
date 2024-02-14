@@ -104,8 +104,8 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
     <a href="https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented/nutrition-chatbot">
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="400">
   </a>
-<!--   &nbsp; &nbsp;
-    <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
+ &nbsp; &nbsp;
+  <!--    <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg" width="400">
   </a>
   &nbsp; &nbsp;

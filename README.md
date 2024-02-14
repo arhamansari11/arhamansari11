@@ -98,8 +98,8 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_agcmu0jdf.webp" width="400">
   </a>
   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/salz21-ai-hackathon/the-team" target="_blank">
-    <img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg" width="400">
+  <a href="https://lablab.ai/event/nextgen-gpt-ai-hackathon/agri-innovators/smart-crop-advisor" target="_blank">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_6s3izi0enn.webp" width="400">
   </a>
   &nbsp;
     <a href="https://lablab.ai/event/multilingual-semantic-search-hackathon/the-team">

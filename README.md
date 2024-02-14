@@ -105,10 +105,10 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="400">
   </a>
  &nbsp; &nbsp;
-  <!--    <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
+  <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg" width="400">
   </a>
-  &nbsp; &nbsp;
+  <!--    &nbsp; &nbsp;
    <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/230712035-3098279d-65b4-41ad-8e1c-6d12466fa8d3.jpg" width="400">
   </a>

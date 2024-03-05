@@ -21,7 +21,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 <!-- Bio -->
 - 🔭 Currently working as MERN Stack Engineer.
-- 👨‍🏫 Moderator @**https://icodeguru.weebly.com/** .
+- 👨‍🏫 Moderator @ <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/arhamansari11/)** in JAVA.
 - 👯 I’m looking to collaborate **with other content creators and developers.**

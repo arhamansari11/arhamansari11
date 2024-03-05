@@ -19,9 +19,10 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 <tr>
 <td style="text-align: justify;" >
 
+
+<!-- -  at @<a href="afterflea.com" target="_blank">After-Flea</a>. -->
 <!-- Bio -->
 - 🔭 Currently working as MERN Stack Engineer.
-<!-- -  at @<a href="afterflea.com" target="_blank">After-Flea</a>. -->
 - 👨‍🏫 Moderator at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/arhamansari11/)** in JAVA.

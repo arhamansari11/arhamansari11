@@ -26,7 +26,6 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 - 👨‍🏫 Moderator at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/arhamansari11/)** in JAVA.
-- 👯 I’m looking to collaborate **with other content creators and developers.**
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **arham96100@gmail.com**.
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.

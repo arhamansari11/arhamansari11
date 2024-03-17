@@ -108,11 +108,11 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="390">
   </a>
  &nbsp; &nbsp;
-  <!--  <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
-    <img src="https://user-images.githubusercontent.com/89584431/230712035-3098279d-65b4-41ad-8e1c-6d12466fa8d3.jpg" width="400">
+   <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gs99ki0uwm.webp" width="390">
   </a>
   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/stable-diffusion-ai-hackathon/youtube-thumbnails/youtube-thumbnails">
+ <!--  <a href="https://lablab.ai/event/stable-diffusion-ai-hackathon/youtube-thumbnails/youtube-thumbnails">
     <img src="https://user-images.githubusercontent.com/89584431/230711856-878f4d96-e3c5-4a26-acf9-90a08b1979ef.jpeg" width="400">
   </a>
   <a>

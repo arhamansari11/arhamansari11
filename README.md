@@ -108,7 +108,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="390">
   </a>
  &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
+   <a href="https://lablab.ai/event/24h-claude-hackathon/global-insight/global-insight-claude-3-opus">
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gs99ki0uwm.webp" width="390">
   </a>
   &nbsp; &nbsp;

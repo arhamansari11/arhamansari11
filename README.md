@@ -22,7 +22,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 <!-- -  at @<a href="afterflea.com" target="_blank">After-Flea</a>. -->
 <!-- Bio -->
-- 🥉 @lablab Hackathon winner **[Leetcode](https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented)**
+- 🥉 @lablab Hackathon winner **[(-> Verify)](https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented)**
 - 🔭 Currently working as MERN Stack Engineer.
 - 👨‍🏫 Moderator at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
 - 🌱 Actively participating in coding competitions & hackathons.

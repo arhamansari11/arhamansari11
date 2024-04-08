@@ -40,7 +40,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 ### Frontend  
 <a href="https://github.com/arhamansari11">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">

@@ -121,6 +121,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
  <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_of20k0306.webp" width="390">
   </a>
+    &nbsp; &nbsp;
    <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
      <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
   </a>

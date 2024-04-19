@@ -121,10 +121,10 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
  <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_of20k0306.webp" width="390">
   </a>
-  <!-- <a>
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/aaa139b4-57ca-4568-8bcf-d86492a333d5" width="400">
+   <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
+     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
   </a>
-   &nbsp; &nbsp;
+  <!-- &nbsp; &nbsp;
   <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/90917306-1f50-46e4-a8b9-2b9981d444a5" width="400">
   </a>

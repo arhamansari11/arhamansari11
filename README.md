@@ -10,9 +10,9 @@
     </a>
 </p>
 
-<p>
+<p align="center">
     <a href="https://github.com/arhamansari11">
-        <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInGKx86NvtAonO4dO8QBbde__U9okQuFFKuoGWXl3IQ&s" width="120px">
+        <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInGKx86NvtAonO4dO8QBbde__U9okQuFFKuoGWXl3IQ&s" width="220px">
     </a>
 </p>
 

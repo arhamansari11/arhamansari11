@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://github.com/arhamansari11">
-        <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInGKx86NvtAonO4dO8QBbde__U9okQuFFKuoGWXl3IQ&s" width="220px">
+        <img src = "https://github.com/arhamansari11/arhamansari11/blob/main/header1.png?raw=true" width="220px">
     </a>
 </p>
 

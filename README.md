@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://github.com/arhamansari11">
-        <img src = "https://github.com/arhamansari11/arhamansari11/blob/main/header1.png?raw=true" width="220px">
+        <img src = "https://github.com/arhamansari11/arhamansari11/blob/main/header1.png?raw=true" width="500px" height="200px">
     </a>
 </p>
 

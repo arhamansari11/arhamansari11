@@ -15,15 +15,15 @@ Hello! I'm Muhammad Arham, a Mern Stack Engineer based in Pakistan👋.
 With a firm grip on the MERN stack🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of web development.🤖
 I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
 
-<table>
+<table width="100%">
     <tr>
-        <td width="33%">
+        <td valign="top width="33%">
             ## Start
         </td>
-        <td width="33%">
+        <td valign="top width="33%">
             ## End
         </td>
-        <td width="33%">
+        <td valign="top width="33%">
             ## Arham
         </td>
     </tr>

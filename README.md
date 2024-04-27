@@ -44,9 +44,9 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
     <tr>
         <td valign="top" width="33%">
             <h1> Start </h1>
-            fasdgfasgfjasgfd
-            fgashfgasdjhgfasj
-            fvasdhfgashgdf
+          Hello! I'm Muhammad Arham, a Mern Stack Engineer based in Pakistan👋.
+With a firm grip on the MERN stack🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of web development.🤖
+I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
         </td>
         <td valign="top" width="33%">
             ## End

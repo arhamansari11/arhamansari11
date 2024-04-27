@@ -17,13 +17,13 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 <table>
     <tr>
-        <td>
+        <td width="33%">
             ## Start
         </td>
-        <td>
+        <td width="33%">
             ## End
         </td>
-        <td>
+        <td width="33%">
             ## Arham
         </td>
     </tr>

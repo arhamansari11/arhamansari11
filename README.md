@@ -17,17 +17,18 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 <table width="100%">
     <tr>
-        <td valign="top width="33%">
+        <td valign="top" width="33%">
             ## Start
         </td>
-        <td valign="top width="33%">
+        <td valign="top" width="33%">
             ## End
         </td>
-        <td valign="top width="33%">
+        <td valign="top" width="33%">
             ## Arham
         </td>
     </tr>
 </table>
+
 
 #
 

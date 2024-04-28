@@ -38,7 +38,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 ## My Skill Set 🛠️:
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/arhamansari11">
@@ -46,7 +46,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Backend  
 <a href="https://github.com/arhamansari11">
@@ -54,7 +54,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
   
 ### Others
 <a href="https://github.com/arhamansari11">

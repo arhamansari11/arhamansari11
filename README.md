@@ -38,7 +38,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 ## My Skill Set 🛠️:
 
-<table width="80%"><tr><td valign="top" width="25%">
+<table style="width: 80%;"><tr><td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/arhamansari11">

@@ -62,7 +62,16 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 
 </div>
 </a>
-</td></tr></table>
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,cpp,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
 
 

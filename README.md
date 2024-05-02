@@ -53,12 +53,13 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 <div align="center">   
       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
-</a>
+
     
 ### Languages
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
 </div>
+</a>
 
 </td><td valign="top" width="25%">
   

@@ -53,6 +53,10 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 <div align="center">   
       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
+### Languages
+    <div align="center">
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+</div>
 </a>
 </td><td valign="top" width="25%">
   
@@ -62,16 +66,7 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
-<!-- </td>
-<td valign="top" width="25%">
-  
-### Languages
-<a href="https://github.com/arhamansari11">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
-</div>
-</a>
-</td> -->
+</td>
 </tr></table>
 
 

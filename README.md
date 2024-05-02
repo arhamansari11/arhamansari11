@@ -56,9 +56,9 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 </a>
     
 ### Languages
-    <div align="center">
+<div align="center">
        <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
-    </div>
+</div>
 
 </td><td valign="top" width="25%">
   

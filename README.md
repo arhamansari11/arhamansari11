@@ -85,14 +85,6 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 </div>
 
 
-## Connect with me:
-<div align="center">
-    <a href="https://www.linkedin.com/in/arhamansari12/">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
-    </a>
-</div>
-
-
 
  ## Github Stats📈:
 <p align="center">

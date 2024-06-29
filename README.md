@@ -20,9 +20,10 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 
 #
 
-<table style="border: none;" >
+<!-- <table style="border: none;" >
 <tr>
-<td style="text-align: justify;" >
+<td style="text-align: justify;" > -->
+
 
 
 <!-- -  at @<a href="afterflea.com" target="_blank">After-Flea</a>. -->

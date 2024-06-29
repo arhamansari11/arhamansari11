@@ -15,6 +15,7 @@
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[7th](https://committers.top/pakistan#arhamansari11)**.
 - Solved 200+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/arham_ansari11)**.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA & LeetCode.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex

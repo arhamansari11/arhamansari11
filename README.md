@@ -4,15 +4,13 @@
 
 # Top [![committers.top badge](https://user-badge.committers.top/pakistan/arhamansari11.svg)](https://user-badge.committers.top/pakistan/arhamansari11)th Pakistani Github Contributor.
 
-# Full Stack Software Engineer 🖥️.
+# Full Stack Software Engineer 🖥️. [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
+
 
 <!-- ## About me🚀:
 Hello! I'm Muhammad Arham Ansari, a Mern Stack Engineer based in Pakistan👋.
 With a firm grip on the MERN stack🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of web development.🤖
 I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻 -->
-
-[![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
-
 
 #
 

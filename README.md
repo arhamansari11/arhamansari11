@@ -8,30 +8,17 @@
 
 <!-- [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
 
-
-- Co-Founder & Dev Lead @[EcoFactor](https://ecofactorsite.netlify.app/).
-- Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
-- **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 1000+ students to learn programming and software engineering skills.
-- If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
-- **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
-- **@lablab.ai**: [Participated](https://lablab.ai/u/@ahmad_jajja288) in multiple AI International Hackathons with a global team of six.
-- **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176624410651504641/) of an International Hackathon(Unhallucinate Challange).
-- **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/) as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
-- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184212040717131778/) at CS50x Puzzle Day 2024 by solving 9/9 complex
-puzzles.
-
 -->
 
 
 <!-- Bio -->
-- 🥉 Hackathon winner **[@lablab](https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented)**
-- 🔭 Currently working as MERN Stack Engineer.
-- 👨‍🏫 Moderator at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
-- 🌱 Actively participating in coding competitions & hackathons.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems <!-- on **[Leetcode](https://leetcode.com/arhamansari11/)** -->.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **arham96100@gmail.com**.
-- 📞 Don't hesitate to reach out & let's connect and start a conversation.
+- @GitHub One of the most active contributors on GitHub in Pakistan, ranking **[7th](https://committers.top/pakistan#arhamansari11)**.
+- Solved 200+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/arham_ansari11)**.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA & LeetCode.
+- **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
+- **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
+- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
+puzzles.
 
 #
 

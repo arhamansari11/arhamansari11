@@ -20,7 +20,7 @@
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
 puzzles.
-- Typing Speed more than 85 WPM.
+- **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)** More than 80 WPM.
 
 #
 

@@ -82,7 +82,7 @@ puzzles.
 
  <p align="center">
    <a href="https://github.com/arhamansari11"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=Dracula&hide_border=true" /> 
    </a>  
  </p>
 

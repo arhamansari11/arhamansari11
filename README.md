@@ -46,7 +46,7 @@ puzzles.
 ### Languages
 <a href="https://github.com/arhamansari11">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python,&perline=4" /> 
 </div>
 </a>
 

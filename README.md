@@ -4,8 +4,6 @@
 
 # Top [6th](https://user-badge.committers.top/pakistan/arhamansari11) Pakistani GitHub Contributor
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/arhamansari11.svg)](https://user-badge.committers.top/pakistan/arhamansari11)
-
 
 # Software Engineer 🖥️.
 

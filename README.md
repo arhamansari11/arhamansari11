@@ -27,7 +27,7 @@ puzzles.
 
 #
 
-## Skill Set:
+## My Skill Set 🛠️:
 
 <table><tr><td valign="top" width="25%">
   
@@ -42,7 +42,7 @@ puzzles.
 ### Frontend  
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,angular,react&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,materialui&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">

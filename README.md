@@ -27,42 +27,54 @@ puzzles.
 
 #
 
-## My Skill Set 🛠️:
+## Skill Set:
 
 <table><tr><td valign="top" width="25%">
+  
+### AI
+<a href="https://github.com/arhamansari11/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/arhamansari11/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,angular,react&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Backend
+<a href="https://github.com/arhamansari11/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=nodejs,flask,docker,aws,gcp,kafka,rabbitmq,git,&perline=4" /> 
 </div>
 </a>
 
-### Backend  
-<a href="https://github.com/arhamansari11">
-<div align="center">   
-      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-    
-### Languages
-<a href="https://github.com/arhamansari11">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python,&perline=4" /> 
-</div>
-</a>
-
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/arhamansari11">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
-</div>
-</a>
 </td>
-</tr></table>
+</tr>
+<tr><td valign="top" width="25%">
+
+### Code Editors  
+<a href="https://github.com/arhamansari11/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Languages 
+<a href="https://github.com/arhamansari11/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql,&perline=4" /> 
+</div>
+</a>
+ </td> 
+</tr>
+</table>
 
  ## Connect with me🤝:
 <div align="center">

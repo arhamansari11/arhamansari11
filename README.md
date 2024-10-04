@@ -65,6 +65,14 @@ puzzles.
 </div>
 </a>
 </td><td valign="top" width="25%">
+    
+### Others  
+<a href="https://github.com/arhamansari11/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
 
 ### Languages 
 <a href="https://github.com/arhamansari11/">

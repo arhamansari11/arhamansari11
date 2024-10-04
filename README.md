@@ -66,18 +66,18 @@ puzzles.
 </a>
 </td><td valign="top" width="25%">
     
-### Others  
+###  Languages
 <a href="https://github.com/arhamansari11/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
+<div align="center"> 
+    <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
 
-### Languages 
+### Others 
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
 </div>
 </a>
  </td> 

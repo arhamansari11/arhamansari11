@@ -42,7 +42,7 @@ puzzles.
 ### Frontend  
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,materialui&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -50,7 +50,7 @@ puzzles.
 ### Backend
 <a href="https://github.com/arhamansari11/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=nodejs,flask,docker,aws,gcp,kafka,rabbitmq,git,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
 </a>
 
@@ -69,7 +69,7 @@ puzzles.
 ### Languages 
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
 </div>
 </a>
  </td> 

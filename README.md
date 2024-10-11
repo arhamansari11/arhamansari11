@@ -16,7 +16,7 @@
 
 <!-- Bio -->
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[6th](https://committers.top/pakistan#arhamansari11)**.
-- **@[LeetCode](https://leetcode.com/arham_ansari11)** Solved 300+ Data Structures & Algorithms problems.
+- **@[LeetCode](https://leetcode.com/u/arhamansari11/)** Solved 300+ Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
@@ -89,7 +89,7 @@ puzzles.
     <a href="https://muhammad-arham.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/arham_ansari11" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://lablab.ai/u/@Arhamansari" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </div>
 

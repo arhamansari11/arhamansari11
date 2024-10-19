@@ -21,7 +21,7 @@
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
-- **@Guest Speaker at University of Punjab**: Deliver a [Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.
+- **@Guest Speaker at University of Punjab**:[Deliver a Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
 puzzles.
 - **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)** More than 80 WPM.

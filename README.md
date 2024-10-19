@@ -23,6 +23,7 @@
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
 - **@Guest Speaker at University of Punjab**: [Deliver a Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.
+- **@Meta Hacker Cup**: Participated in Meta Hacker Cup [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121) where I've work with international Engineers and solve complex problems .
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
 puzzles.
 - **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)** More than 80 WPM.

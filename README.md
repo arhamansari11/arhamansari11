@@ -81,6 +81,7 @@ puzzles.
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
+     <img src="./Assets/dsa.png" alt="DSA"  title="DSA" style="width: 50px;">
 </div>
 </a>
  </td> 

@@ -16,9 +16,9 @@
 
 <!-- Bio -->
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[5th](https://committers.top/pakistan#arhamansari11)**.
-- **@[LeetCode](https://leetcode.com/u/arhamansari11/)** Solved 300+ Data Structures & Algorithms problems.
+- **@[LeetCode](https://leetcode.com/u/arhamansari11/)** Solved 350+ Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
-- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - @If you want to see how I provide training to my students have a look → **[**👀**](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
@@ -101,8 +101,8 @@ puzzles.
  ## Github Stats📈:
 <p align="center">
     <a href="https://github.com/arhamansari11">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
@@ -110,7 +110,7 @@ puzzles.
 
  <p align="center">
    <a href="https://github.com/arhamansari11"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=blue-green&hide_border=true" /> 
    </a>  
  </p>
 

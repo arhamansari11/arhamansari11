@@ -19,7 +19,7 @@
 - **@[LeetCode](https://leetcode.com/u/arhamansari11/)** Solved 370+ Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
-- @If you want to see how I provide training to my students have a look → **[**👀**](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**
+- @If you want to see how I provide training to my students have a look → **[**👀**](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
 - **@Guest Speaker at University of Punjab**: [Deliver a Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.

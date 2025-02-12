@@ -16,7 +16,7 @@
 
 <!-- Bio -->
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[9th](https://committers.top/pakistan#arhamansari11)**.
-- **@[LeetCode](https://leetcode.com/u/arhamansari11/)** Solved 390+ Data Structures & Algorithms problems.
+- **@[LeetCode](https://leetcode.com/u/arham_ansari11/)** Solved 400+ Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - @If you want to see how I provide training to my students have a look → **[**👀**](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.

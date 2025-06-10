@@ -26,7 +26,7 @@
 - **@Meta Hacker Cup**: Participated in Meta Hacker Cup [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121) where I've work with international Engineers and solve complex problems .
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
 puzzles.
-- **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7282781111074639873/)** More than 100 WPM.
+- **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7333169091525918722/)** More than 164 WPM.
 
 #
 

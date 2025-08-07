@@ -162,9 +162,5 @@ puzzles.
   <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
   </a> -->
-</p> -->
 
-
-
-#
 

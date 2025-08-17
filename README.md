@@ -128,6 +128,19 @@ puzzles.
 
 
 
+- 🧩 **Harvard CS50x Puzzle Day (2024 & 2025)**  🥇 1st place, 9/9 puzzles  
+  - 🔗 Certificates: [2024](https://certificates.cs50.io/ebbdb4b8-2b10-46e9-9af0-8be96b45ae20.png?size=letter) | [2025](https://certificates.cs50.io/e00eae90-a5af-436e-88ec-259284176bd3.pdf?size=letter)
+
+- 🎓 **Stanford Code in Place**  👩‍🏫 Section Leader & Global Mentor  
+  - 📜 Certificate: [View](https://digitalcredential.stanford.edu/check/23CD393A8FA838966BC2FF4E64CBF201FAE1DAAA37B56DB15C0F3C04C076A5D4cEs3L0ZteXREcXpReE1QTTF3VTl5elhEd2VWOWdwNGliNE1LRmY3SjA4c3lCbHMr)
+
+- 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub , AI
+  - 🐍 Delivered Python sessions and solved LeetCode problems.
+  - 🛠 Conducted workshops on Git and GitHub , Machine Learning , Competitive Programming. 
+  - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2025 , Meta Hacker Cup 2024.
+  - 🎥 Recordings: [GitHub Repository](https://github.com/arhamansari11/volunteer_Teaching_Recordings/)
+
+
  ## Github Stats📈:
 <!-- <p align="center">
     <a href="https://github.com/arhamansari11">

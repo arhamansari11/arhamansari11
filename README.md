@@ -15,7 +15,7 @@
 ---
 
 
-Hi, I'm **Muhammad Arham** , a Software Engineer Student at **Virtual University of Pakistan**.
+Hi, I'm **Muhammad Arham** , a Software Engineering Student at **Virtual University of Pakistan**.
 
 As a software engineer specializing in AI-driven solutions, I excel in developing web (MERN) and mobile (React Native) applications while mentoring students in programming at platforms like iCodeGuru and Aspire Pakistan. With extensive experience in global hackathons and coding challenges, I bring innovation and collaboration to every project. My expertise spans Generative AI, LLMs, and advanced tech ecosystems.
 

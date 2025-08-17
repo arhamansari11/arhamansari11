@@ -114,7 +114,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 
 - 🌟 **Notable Achievements** (Key stats & recognitions across platforms)  
-  - 📈 **GitHub**: Ranked **[7th](https://www.linkedin.com/feed/update/urn:li:activity:7215757332260016129/)** among the most active contributors in Pakistan with **[700 Days](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121)** of coding consistency.
+  - 📈 **GitHub**: Ranked **[7th](https://www.linkedin.com/feed/update/urn:li:activity:7215757332260016129/)** among the most active contributors in Pakistan with **[700 Days](https://www.linkedin.com/feed/update/urn:li:activity:7348362740706566146/)** of coding consistency.
   - 🧠 **LeetCode**: Solved **[450+](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/)** Data Structures & Algorithms problems. .
 
 

@@ -101,6 +101,10 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 </div>
 
 
+<a href="https://github.com/arhamansari11/">
+<h1 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> Achievements & Community Contributions</h1>
+</a>
+
 
 
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[17th](https://committers.top/pakistan#arhamansari11)**.

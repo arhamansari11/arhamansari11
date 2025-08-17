@@ -35,7 +35,7 @@ puzzles.
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/arhamansari11/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,jwt,firebase,streamlit,python,c,csharp,googlecolaboratory,numpy,postman,fastapi,git,github,githubcopilot,vscode,vercel,v0,netlify,notion,slack,discord,chatgpt,anaconda,axios,cursor" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,jwt,firebase,streamlit,python,c,csharp,googlecolaboratory,tensorflow,numpy,pandas,yolo,yarn,xampp,postman,fastapi,git,github,githubcopilot,vscode,vercel,v0,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor" />
 </p>
 </a>
 

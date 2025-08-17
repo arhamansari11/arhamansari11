@@ -125,7 +125,8 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 - 🧠 ****
 -->
 
-- 🥇 **Coding Competitions** (Global Challenges & Rankings)   
+- 🥇 **Coding Competitions** (Global Challenges & Rankings)
+    - ➤ **Advent of Code 2024**: Ranked [49th globally](https://www.linkedin.com/feed/update/urn:li:activity:7277710038784200704/) out of 252,895 coders and topped in several private leaderboards.  
   - ➤ **Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
   - ➤ **lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
   - ➤ **UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).

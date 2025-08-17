@@ -10,7 +10,6 @@
 Hi, I'm **Muhammad Arham** , a Software Engineer Student at **Virtual University of Pakistan**.
 
 As a software engineer specializing in AI-driven solutions, I excel in developing web (MERN) and mobile (React Native) applications while mentoring students in programming at platforms like iCodeGuru and Aspire Pakistan. With extensive experience in global hackathons and coding challenges, I bring innovation and collaboration to every project. My expertise spans Generative AI, LLMs, and advanced tech ecosystems.
-Check Resume
 
 
 <!-- [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
@@ -19,7 +18,7 @@ Check Resume
 
 
 <!-- Bio -->
-- **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[16th](https://committers.top/pakistan#arhamansari11)**.
+- **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[17th](https://committers.top/pakistan#arhamansari11)**.
 - **@[LeetCode](https://leetcode.com/u/arham_ansari11/)** Solved 450+ Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided Training on Data Structures and Algorithms (DSA).
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.

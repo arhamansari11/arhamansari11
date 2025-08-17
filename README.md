@@ -3,8 +3,14 @@
 </a>-->
 
 <!-- # Top [6th](https://user-badge.committers.top/pakistan/arhamansari11) Pakistani GitHub Contributor. -->
+<h1 align="left">
+  Top 
+  <a href="https://user-badge.committers.top/pakistan/arhamansari11">
+    <img src="https://user-badge.committers.top/pakistan/arhamansari11.svg" alt="committers.top badge">
+  </a>
+  th Pakistani Github Contributor.
+</h1>
 
-<h1 align="left">Top [![committers.top badge](https://user-badge.committers.top/pakistan/arhamansari11.svg)](https://user-badge.committers.top/pakistan/arhamansari11)th Pakistani Github Contributor.</h1>
 
 ---
 

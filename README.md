@@ -112,6 +112,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 </a>
 
 
+📈
 
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[17th](https://committers.top/pakistan#arhamansari11)**.
 - **@[LeetCode](https://leetcode.com/u/arham_ansari11/)** Solved 450+ Data Structures & Algorithms problems on LeetCode.
@@ -126,7 +127,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 - 🧠 ****
 -->
 
-- 🥇 **Coding Competitions**  
+- 🥇 **Coding Competitions** (Global Challenges & Rankings)   
   - ➤ **Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
   - ➤ **lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
   - ➤ **UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).

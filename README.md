@@ -128,7 +128,8 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 - 🥇 **Coding Competitions**  
   - ➤ **Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
-  - ➤ **lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).  
+  - ➤ **lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
+  - ➤ **UC Berkeley CALICO Spring 2025**: Participated in UC Berkeley's Global Coding Challenge CALICO Spring 2025, where my team Runtime Terror solved multiple AI-proof hard problems and ranked 86th internationally. Ranked 260 out of 865 teams [Unhallucinate Challenge](https://shorturl.at/O0iAq).
 
 
     

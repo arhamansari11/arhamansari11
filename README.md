@@ -1,15 +1,15 @@
-<!-- <a href="https://github.com/arhamansari11">
+ <a href="https://github.com/arhamansari11">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
-</a>-->
+</a>
 
 <!-- # Top [6th](https://user-badge.committers.top/pakistan/arhamansari11) Pakistani GitHub Contributor. -->
-<h1 align="left">
+<!-- <h1 align="left">
   Top 
   <a href="https://user-badge.committers.top/pakistan/arhamansari11">
     <img src="https://user-badge.committers.top/pakistan/arhamansari11.svg" alt="committers.top badge">
   </a>
   th Pakistani Github Contributor.
-</h1>
+</h1> --> 
 
 
 ---
@@ -118,6 +118,14 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 - **@[LeetCode](https://leetcode.com/u/arham_ansari11/)** Solved 450+ Data Structures & Algorithms problems on LeetCode.
 - **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7333169091525918722/)** More than 164 WPM.
 
+- 🌟 **Notable Achievements** (Key stats & recognitions across platforms)  
+  - ➤ **[GitHub](https://committers.top/pakistan)**: Ranked **[17th](https://committers.top/pakistan#arhamansari11)** among the most active contributors in Pakistan.  
+  - ➤ **[LeetCode](https://leetcode.com/u/arham_ansari11/)**: Solved 450+ Data Structures & Algorithms problems.  
+  - ➤ **[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7333169091525918722/)**: Achieved a speed of 164+ WPM.
+  - ➤ **GitHub**: Ranked **[7th](https://www.linkedin.com/feed/update/urn:li:activity:7215757332260016129/)** among the most active contributors in Pakistan with [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
+  - ➤ **lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
+  - ➤ **UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).
+
 
 
 - 🧩 **Harvard CS50x Puzzle Day (2024 & 2025)**  🥇 1st place, 9/9 puzzles  
@@ -132,9 +140,6 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   - ➤ **lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
   - ➤ **UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).
 
-
-
-    
 
 - 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub , AI
   - 🐍 Delivered Python sessions and solved LeetCode problems.

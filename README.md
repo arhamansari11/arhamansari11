@@ -40,7 +40,7 @@ puzzles.
 </a>
 
 
-<table><tr><td valign="top" width="25%">
+<!-- <table><tr><td valign="top" width="25%">
     
 
   
@@ -95,7 +95,7 @@ puzzles.
 </a>
  </td> 
 </tr>
-</table>
+</table> -->
 
  ## Connect with me🤝:
 <div align="center">

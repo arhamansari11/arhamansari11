@@ -115,10 +115,6 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[17th](https://committers.top/pakistan#arhamansari11)**.
 - **@[LeetCode](https://leetcode.com/u/arham_ansari11/)** Solved 450+ Data Structures & Algorithms problems on LeetCode.
-- **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
-- **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
-- **@Guest Speaker at University of Punjab**: [Deliver a Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.
-- **@Meta Hacker Cup**: Participated in Meta Hacker Cup [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121) where I've work with international Engineers and solve complex problems.
 - **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7333169091525918722/)** More than 164 WPM.
 
 
@@ -131,7 +127,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 -->
 
 - 🥇 **Coding Competitions**  
-  - ➤ **@Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
+  - ➤ **Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
 
     
 

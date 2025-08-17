@@ -129,10 +129,9 @@ puzzles.
 
 
 - 🧩 **Harvard CS50x Puzzle Day (2024 & 2025)**  🥇 1st place, 9/9 puzzles  
-  - 🔗 Certificates: [2024](https://certificates.cs50.io/ebbdb4b8-2b10-46e9-9af0-8be96b45ae20.png?size=letter) | [2025](https://certificates.cs50.io/e00eae90-a5af-436e-88ec-259284176bd3.pdf?size=letter)
-
-- 🎓 **Stanford Code in Place**  👩‍🏫 Section Leader & Global Mentor  
-  - 📜 Certificate: [View](https://digitalcredential.stanford.edu/check/23CD393A8FA838966BC2FF4E64CBF201FAE1DAAA37B56DB15C0F3C04C076A5D4cEs3L0ZteXREcXpReE1QTTF3VTl5elhEd2VWOWdwNGliNE1LRmY3SjA4c3lCbHMr)
+  - 🔗 Certificates: [2024](https://certificates.cs50.io/290bebca-9ec7-40be-8c06-8e4e19e5f7a2.pdf?size=letter) | [2025](https://certificates.cs50.io/5643c20b-f2d6-4e78-82d8-f01fc9ac73cc.pdf?size=letter)
+🎓📜  - 📜 Certificate: [View]
+-
 
 - 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub , AI
   - 🐍 Delivered Python sessions and solved LeetCode problems.

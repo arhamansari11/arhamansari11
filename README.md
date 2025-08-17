@@ -33,10 +33,11 @@ puzzles.
 ## My Skill Set 🛠️:
 
 > Tools, languages, and other things I am working with.
-
+<a href="https://github.com/arhamansari11/">
 <p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,jwt,firebase,python,streamlit,,googlecolaboratory,numpy,postman,git,github,githubcopilot,vscode,vercel,v0,netlify,notion,slack,discord,chatgpt" />
 </p>
+</a>
 
 
 <table><tr><td valign="top" width="25%">

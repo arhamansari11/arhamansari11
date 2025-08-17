@@ -115,9 +115,6 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[17th](https://committers.top/pakistan#arhamansari11)**.
 - **@[LeetCode](https://leetcode.com/u/arham_ansari11/)** Solved 450+ Data Structures & Algorithms problems on LeetCode.
-- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided Training on Data Structures and Algorithms (DSA).
-- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
-- @If you want to see how I provide training to my students have a look → **[**👀**](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
 - **@Guest Speaker at University of Punjab**: [Deliver a Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.
@@ -130,10 +127,12 @@ puzzles.
 
 - 🧩 **Harvard CS50x Puzzle Day (2024 & 2025)**  🥇 1st place, 9/9 puzzles  
   - 🔗 Certificates: [2024](https://certificates.cs50.io/290bebca-9ec7-40be-8c06-8e4e19e5f7a2.pdf?size=letter) | [2025](https://certificates.cs50.io/5643c20b-f2d6-4e78-82d8-f01fc9ac73cc.pdf?size=letter)
-🎓📜  - 📜 Certificate: [View]
+    
+<!--🎓📜  - 📜 Certificate: [View] -->
 
-- 🥇 **Coding Competitions*
-      - 
+- 🥇 **Coding Competitions**  
+  - 🔗 Certificates: [2024](https://certificates.cs50.io/290bebca-9ec7-40be-8c06-8e4e19e5f7a2.pdf?size=letter) | [2025](https://certificates.cs50.io/5643c20b-f2d6-4e78-82d8-f01fc9ac73cc.pdf?size=letter)
+  - 
 
 - 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub , AI
   - 🐍 Delivered Python sessions and solved LeetCode problems.

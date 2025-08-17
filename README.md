@@ -118,7 +118,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   - 🧠 **LeetCode**: Solved **[450+](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/)** Data Structures & Algorithms problems. .
 
 
-- 🧩 **Harvard CS50x Puzzle Day (2024 & 2025)**  🥇 1st place, 9/9 puzzles  
+- 🧩 **Harvard CS50x Puzzle Day (2024 & 2025)**  (1st place, 9/9 puzzles)
   - 🔗 Certificates: [2024](https://certificates.cs50.io/290bebca-9ec7-40be-8c06-8e4e19e5f7a2.pdf?size=letter) | [2025](https://certificates.cs50.io/5643c20b-f2d6-4e78-82d8-f01fc9ac73cc.pdf?size=letter)
     
 <!--🎓📜  - 📜 Certificate: [View]  
@@ -131,7 +131,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   - ➤ **UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).
 
 
-- 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub , AI
+- 📢 **Tech Instructor & Trainer @ iCodeGuru** (Python, DSA, Git & GitHub , AI)
   - 🐍 Delivered Python sessions and solved LeetCode problems.
   - 🛠 Conducted engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons. 
   - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2025 , Meta Hacker Cup 2024.

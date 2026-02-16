@@ -152,11 +152,11 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 
 
- <p align="center">
+ <!-- <p align="center">
    <a href="https://github.com/arhamansari11"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
    </a>  
- </p>
+ </p> -->
 
 <br>
 

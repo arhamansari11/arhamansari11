@@ -142,7 +142,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2025 , Meta Hacker Cup 2024.
   - 🎥 Recordings: [GitHub Repository](https://github.com/arhamansari11/volunteer_Teaching_Recordings/)
  
- <!-- ## Github Stats📈:
+ ## Github Stats📈:
 <!-- <p align="center">
     <a href="https://github.com/arhamansari11">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -152,11 +152,11 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 
 
- <!-- <p align="center">
+ <p align="center">
    <a href="https://github.com/arhamansari11"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
    </a>  
- </p> -->
+ </p> 
 
 <br>
 

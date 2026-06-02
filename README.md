@@ -136,7 +136,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   - ➤ **UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).
 
 
-- 📢 **Tech Instructor & Trainer @ iCodeGuru** (Python, DSA, Git & GitHub , AI)
+- 📢 **Tech Instructor & Trainer @ iCodeGuru** (Python, DSA, Git & GitHub, AI)
   - 🐍 Delivered Python sessions and solved LeetCode problems.
   - 🛠 Conducted engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons. 
   - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2025 , Meta Hacker Cup 2024.

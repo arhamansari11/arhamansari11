@@ -200,7 +200,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 
 ## 📈 Impact & Metrics
-
+<a href="https://github.com/arhamansari11/" target="_blank">
 <p align="center">
   <img src="https://img.shields.io/badge/Problems_Solved-450+-success?style=for-the-badge&logo=leetcode" alt="Problems Solved"/>
   <img src="https://img.shields.io/badge/Students_Mentored-100+-blue?style=for-the-badge&logo=google-classroom" alt="Students Mentored"/>
@@ -208,7 +208,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   <img src="https://img.shields.io/badge/GitHub_Stars-⭐100+-yellow?style=for-the-badge&logo=github" alt="GitHub Stars"/>
   <img src="https://img.shields.io/badge/Teaching_Hours-100+-green?style=for-the-badge&logo=udemy" alt="Teaching Hours"/>
 </p>
-
+  </a>
 ---
 
 ## 🎓 Certifications & Achievements
@@ -217,7 +217,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
  
 
 <table>
-<a href="https://github.com/arhamansari11/" target="_blank">
+
  <tr>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/Stanford-Code_In_Place-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford"/>
@@ -246,7 +246,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 <br><b>AI Innovator</b>
     </td>
 </tr>
-  </a>
+
 </table>
 
 

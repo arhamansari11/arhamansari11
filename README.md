@@ -209,7 +209,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   <img src="https://img.shields.io/badge/Teaching_Hours-100+-green?style=for-the-badge&logo=udemy" alt="Teaching Hours"/>
 </p>
   </a>
----
+
 
 ## 🎓 Certifications & Achievements
 

@@ -39,19 +39,31 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 
 
-- **@[Stanford Code in Place 2026](https://digitalcredential.stanford.edu/check/4FC4EE6F100BFF275A11656A84B7F529EB92030B46601BCB7E11333380B49545c3FXanB6VTNmaDhaNzIyVkRUVEdhUmxDYWU4WUhRVW94elcxVlVZeWd6b2JNdEZQ)** Selected as Section Leader among ~1400 all over the world to teach **CS106A** to 10-15 group of international students
+
 - **@GitHub**: Ranked **[7th](https://www.linkedin.com/feed/update/urn:li:activity:7215757332260016129/)** among the most active contributors in Pakistan with **[700 Days](https://www.linkedin.com/feed/update/urn:li:activity:7462560257110650880/)** of coding consistency.
 - **@LeetCode**: Solved **[450+](https://leetcode.com/u/arhamansari12/)** Data Structures & Algorithms problems.
-- **@Advent of Code 2024**: Ranked [49th globally](https://www.linkedin.com/feed/update/urn:li:activity:7277710038784200704/) out of 252,895 coders and topped in several private leaderboards.
 - **@Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
 -  **@lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
--  **@UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).
-- **@[Typing Speed](http://linkedin.com/feed/update/urn:li:activity:7282781111074639873/)**: More than 100 WPM.
 > Grateful for your visit! Check out my work, reach out anytime, and let’s collaborate to turn ideas into reality.
 
 
 
 
+
+
+
+- **@[Stanford Code in Place 2026](https://digitalcredential.stanford.edu/check/4FC4EE6F100BFF275A11656A84B7F529EB92030B46601BCB7E11333380B49545c3FXanB6VTNmaDhaNzIyVkRUVEdhUmxDYWU4WUhRVW94elcxVlVZeWd6b2JNdEZQ)** Selected as Section Leader among ~1400 all over the world to teach **CS106A** to 10-15 group of international students.
+- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/5643c20b-f2d6-4e78-82d8-f01fc9ac73cc.pdf?size=letter)** Solved **9/9** complex puzzles with my team.**
+- **@[GitHub](https://github.com/SaifRasool92)** Contributing **DSA**,  material daily on GitHub and my achievements.
+- **@[LeetCode](https://leetcode.com/u/arhamansari12/)** Solved **[450+](https://github.com/arhamansari11/Daily_LeetCoding)** Data Structures & Algorithms problems on LeetCode.
+- **@[iCodeGuru](https://icode.guru/)**: Provided training on Python and Data Structures &amp; Algorithms (DSA).
+- @If you want to see how I provide training to my students have a **[look](https://github.com/SaifRasool92/Volunteer_Teachings)**.
+- **@[lablab.ai](https://lablab.ai/u/@Saif_123)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
+- **@[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220)**: Participated in **Meta Hacker Cup 2024** where I've work on complex problems.
+- **@[UC Berkeley CALICO Spring 2025](https://shorturl.at/O0iAq)** Competed in the global coding challenge, where my team ranked 260/865 teams.
+- **@[Advent of Code](https://www.linkedin.com/feed/update/urn:li:activity:7277710038784200704/)**:Ranked 49th globally out of 252,895 coders and topped in several private leaderboards.
+- **@[Typing Speed](http://linkedin.com/feed/update/urn:li:activity:7282781111074639873/)**: More than 100 WPM.
+- **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://youtu.be/U8GyPbt2bhI)** on importance of UC Berekely's CALICO Spring'25 coding competition.
 
 
 

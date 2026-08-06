@@ -56,7 +56,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 - **@[lablab.ai](https://lablab.ai/u/@Arhamansari)**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
 - **@[ICPC Regionalist 2026](https://www.linkedin.com/feed/update/urn:li:activity:7424808003163500544/)**: Selected as an ICPC Regionalist successfully advancing from the online round to the onsite regional
 competition.
-- **@[UC Berkeley CALICO Spring 2025](https://shorturl.at/O0iAq)**: Competed in the global coding challenge, where my team ranked 260/865 teams.
+- **@[UC Berkeley CALICO Spring 2025](https://www.linkedin.com/feed/update/urn:li:activity:7263886231229386752/)**: Competed in the global coding challenge, where my team ranked 260/865 teams.
 - **@[Advent of Code](https://www.linkedin.com/feed/update/urn:li:activity:7277710038784200704/)**: Ranked 49th globally out of 252,895 coders and topped in several private leaderboards.
 - **@[Guest Speaker at University of the Punjab](https://pu.edu.pk/)**: Delivered a **[talk](https://www.linkedin.com/posts/arhamansari12_metaabrhackerabrcupabr2024-activity-7235980262247940096-M_wu/?utm_source=share&utm_medium=member_desktop)** on Meta Hacker Cup sharing insights and experiences.
 - **@[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.

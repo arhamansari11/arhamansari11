@@ -213,6 +213,9 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 ## 🎓 Certifications & Achievements
 
+<a href="https://github.com/arhamansari11/" target="_blank">
+ 
+
 <table>
 <tr>
 <td width="33%" align="center">
@@ -243,6 +246,8 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
     </td>
 </tr>
 </table>
+
+ </a>
 
 ---
 

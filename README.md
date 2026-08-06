@@ -49,7 +49,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 - **@[Stanford Code in Place 2026](https://digitalcredential.stanford.edu/check/4FC4EE6F100BFF275A11656A84B7F529EB92030B46601BCB7E11333380B49545c3FXanB6VTNmaDhaNzIyVkRUVEdhUmxDYWU4WUhRVW94elcxVlVZeWd6b2JNdEZQ)** Selected as Section Leader among ~1400 all over the world to teach **CS106A** to 10-15 group of international students.
 - **@[Harvard CS50x Puzzle Day](https://cs50.harvard.edu/x/puzzles/)** Solved **9/9** complex puzzles with my team in in [2024](https://certificates.cs50.io/290bebca-9ec7-40be-8c06-8e4e19e5f7a2.pdf?size=letter), [2025](https://certificates.cs50.io/5643c20b-f2d6-4e78-82d8-f01fc9ac73cc.pdf?size=letter) and  [2026](https://certificates.cs50.io/b3407941-f3a2-41ba-95e8-5485a73046e5.pdf?size=letter).
-- **@[GitHub](https://github.com/SaifRasool92)** Ranked 7th among the most active contributors in Pakistan with 1000+ Days of coding consistency.
+- **@[GitHub](https://github.com/arhamansari11/)** Ranked 7th among the most active contributors in Pakistan with [1000+](https://www.linkedin.com/feed/update/urn:li:activity:7462560257110650880/) Days of coding consistency.
 - **@[LeetCode](https://leetcode.com/u/arhamansari12/)** Solved **[450+](https://github.com/arhamansari11/Daily_LeetCoding)** Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python and Data Structures &amp; Algorithms (DSA).
 - @If you want to see how I provide training to my students have a **[look](https://github.com/arhamansari11/Volunteer_Teaching_Recordings)**.

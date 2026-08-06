@@ -38,9 +38,8 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About Me:
 
 
-- **@Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
--  **@lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
-> Grateful for your visit! Check out my work, reach out anytime, and let’s collaborate to turn ideas into reality.
+
+
 
 
 
@@ -53,14 +52,17 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 - **@[GitHub](https://github.com/SaifRasool92)** Ranked 7th among the most active contributors in Pakistan with 1000+ Days of coding consistency.
 - **@[LeetCode](https://leetcode.com/u/arhamansari12/)** Solved **[450+](https://github.com/arhamansari11/Daily_LeetCoding)** Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python and Data Structures &amp; Algorithms (DSA).
-- @If you want to see how I provide training to my students have a **[look](https://github.com/SaifRasool92/Volunteer_Teachings)**.
+- @If you want to see how I provide training to my students have a **[look](https://github.com/arhamansari11/Volunteer_Teaching_Recordings)**.
 - **@[lablab.ai](https://lablab.ai/u/@Arhamansari)**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
 - **@[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220)**: Participated in **Meta Hacker Cup 2024** where I've work on complex problems.
 - **@[UC Berkeley CALICO Spring 2025](https://shorturl.at/O0iAq)**: Competed in the global coding challenge, where my team ranked 260/865 teams.
 - **@[Advent of Code](https://www.linkedin.com/feed/update/urn:li:activity:7277710038784200704/)**: Ranked 49th globally out of 252,895 coders and topped in several private leaderboards.
+- **@**: 
+- **@[Guest Speaker at University of the Punjab](https://pu.edu.pk/)**: Delivered a **[talk](https://www.linkedin.com/posts/arhamansari12_metaabrhackerabrcupabr2024-activity-7235980262247940096-M_wu/?utm_source=share&utm_medium=member_desktop)** on Meta Hacker Cup sharing insights and experiences.
+- **@[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
 - **@[Typing Speed](http://linkedin.com/feed/update/urn:li:activity:7282781111074639873/)**: More than 100 WPM.
-- **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://youtu.be/U8GyPbt2bhI)** on importance of UC Berekely's CALICO Spring'25 coding competition.
 
+> Grateful for your visit! Check out my work, reach out anytime, and let’s collaborate to turn ideas into reality.
 
 
 #

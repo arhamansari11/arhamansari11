@@ -212,7 +212,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 ## 🎓 Certifications & Achievements
 
-<a href="https://github.com/arhamansari11" target="_blank">
+
 
 <table>
 
@@ -245,14 +245,16 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 </td>
 
 <td width="33%" align="center">
+ <a href="https://github.com/arhamansari11" target="_blank">
 <img src="https://img.shields.io/badge/LabLab.ai-20+_Hackathons-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="LabLab"/>
+ </a>
 <br><b>AI Innovator</b>
 </td>
 </tr>
 
 </table>
 
-</a>
+
 
 
 ---

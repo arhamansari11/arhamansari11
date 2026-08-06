@@ -174,6 +174,31 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 </p>  -->
 
 
+
+
+
+
+ <p align="center">
+   <a href="https://github.com/arhamansari11"> 
+     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" />
+
+   </a>  
+ </p> 
+
+<br>
+
+#
+
+
+
+
+
+
+
+
+
+
+
 ## 📈 Impact & Metrics
 
 <p align="center">
@@ -221,19 +246,25 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 ---
 
+<p align="center">
+  <i>Affiliated with</i><br/><br/>
+  <a href="https://www.vu.edu.pk/"><img src="https://img.shields.io/badge/Virtual_University-002147?style=for-the-badge" /></a>
+  <a href="https://wpbrigade.com/"><img src="https://img.shields.io/badge/WPBrigade-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://icode.guru/"><img src="https://img.shields.io/badge/iCodeGuru-1F6FEB?style=for-the-badge" /></a>
+  <a href="https://www.pakangels.com/"><img src="https://img.shields.io/badge/PakAngels-EA4335?style=for-the-badge" /></a>
+  <a href="https://codeinplace.stanford.edu/"><img src="https://img.shields.io/badge/Stanford_Code_in_Place-8C1515?style=for-the-badge" /></a>
+</p>
+
+<br/>
+
+<!-- ============================ FOOTER ============================ -->
+<p align="center">
+  <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="footer" /> -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&fontAlignY=75" />
+</p>
 
 
 
- <p align="center">
-   <a href="https://github.com/arhamansari11"> 
-     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" />
-
-   </a>  
- </p> 
-
-<br>
-
-#
 
 <!-- <div align="center">
   <a href="https://github.com/arhamansari11">

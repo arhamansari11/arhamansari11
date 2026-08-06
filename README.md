@@ -210,45 +210,49 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 </p>
   </a>
 
-
 ## 🎓 Certifications & Achievements
 
-
- 
+<a href="https://github.com/arhamansari11" target="_blank">
 
 <table>
 
- <tr>
+<tr>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/Stanford-Code_In_Place-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford"/>
 <br><b>Section Leader 2026</b>
-    </td>
+</td>
+
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard"/>
 <br><b>Puzzle Day Champion</b>
-    </td>
+</td>
+
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/Meta-Hacker_Cup-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"/>
 <br><b>Participant 2023, 2024</b>
-    </td>
+</td>
 </tr>
+
 <tr>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/LeetCode-450+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 <br><b>Active Contributor</b>
-    </td>
+</td>
+
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/Advent_Of_Code-50_Stars-FFD700?style=for-the-badge&logo=adventofcode&logoColor=black" alt="Advent of Code"/>
 <br><b>2024, 2025 Completion</b>
-    </td>
+</td>
+
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/LabLab.ai-20+_Hackathons-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="LabLab"/>
 <br><b>AI Innovator</b>
-    </td>
+</td>
 </tr>
 
 </table>
 
+</a>
 
 
 ---

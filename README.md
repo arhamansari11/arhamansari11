@@ -46,7 +46,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 - **@Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
 -  **@lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
 -  **@UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).
-- **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingjourney-consistency-discipline-activity-7316542143076986880-KF-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)**: More than 100 WPM.
+- **@[Typing Speed](http://linkedin.com/feed/update/urn:li:activity:7282781111074639873/)**: More than 100 WPM.
 > Grateful for your visit! Check out my work, reach out anytime, and let’s collaborate to turn ideas into reality.
 
 

@@ -111,6 +111,40 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 </div>
 
 
+
+
+
+## Connect with Me:
+<div width='100px'>
+  <p align="center" width='100px'>
+     <a href="https://muhammad-arham.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+    &nbsp;
+      <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"style="height:25px;" />
+      </a>
+    &nbsp;
+      <a href="mailto:arham96100@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height:25px;"/>
+      </a>
+    &nbsp;
+      <a href="https://linktr.ee/arham_ansari" target="_blank">
+          <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"style="height:25px;" />
+      </a>
+    &nbsp;
+      <a href="https://lablab.ai/u/@Arhamansari" target="_blank">
+          <img src="https://img.shields.io/badge/Lablab-ffffff?style=for-the-badge&logo=lablab&logoColor=black" alt="Email" style="height:25px;"/>
+      </a>
+      &nbsp;
+      <a href="https://leetcode.com/u/arhamansari12/" target="_blank">
+          <img src="https://img.shields.io/badge/Leetcode-323437?style=for-the-badge&logo=leetcode&logoColor=black" alt="Email" style="height:25px;"/>
+      </a>
+  </p>
+</div>
+
+
+
 <a href="https://github.com/arhamansari11/">
 <h1 align="left"> <a href="https://github.com/arhamansari11/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> </a>Achievements & Community Contributions</h1>
 </a>

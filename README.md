@@ -213,11 +213,12 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 ## 🎓 Certifications & Achievements
 
-<a href="https://github.com/arhamansari11/" target="_blank">
+
  
 
 <table>
-<tr>
+<a href="https://github.com/arhamansari11/" target="_blank">
+ <tr>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/Stanford-Code_In_Place-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford"/>
 <br><b>Section Leader 2026</b>
@@ -245,9 +246,10 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 <br><b>AI Innovator</b>
     </td>
 </tr>
+  </a>
 </table>
 
- </a>
+
 
 ---
 

@@ -174,6 +174,55 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 </p>  -->
 
 
+## 📈 Impact & Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-440+-success?style=for-the-badge&logo=leetcode" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Students_Mentored-100+-blue?style=for-the-badge&logo=google-classroom" alt="Students Mentored"/>
+  <img src="https://img.shields.io/badge/Hackathons-20+-orange?style=for-the-badge&logo=hackerrank" alt="Hackathons"/>
+  <img src="https://img.shields.io/badge/GitHub_Stars-⭐50-yellow?style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/badge/Teaching_Hours-500+-green?style=for-the-badge&logo=udemy" alt="Teaching Hours"/>
+</p>
+
+---
+
+## 🎓 Certifications & Achievements
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Stanford-Code_In_Place-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford"/>
+<br><b>Section Leader 2025</b>
+    </td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard"/>
+<br><b>Puzzle Day Champion</b>
+    </td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Meta-Hacker_Cup-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"/>
+<br><b>Participant 2024</b>
+    </td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/LeetCode-440+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<br><b>Active Contributor</b>
+    </td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Advent_Of_Code-50_Stars-FFD700?style=for-the-badge&logo=adventofcode&logoColor=black" alt="Advent of Code"/>
+<br><b>2024 Completion</b>
+    </td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/LabLab.ai-20+_Hackathons-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="LabLab"/>
+<br><b>AI Innovator</b>
+    </td>
+</tr>
+</table>
+
+---
+
+
+
 
  <p align="center">
    <a href="https://github.com/arhamansari11"> 

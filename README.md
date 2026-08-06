@@ -285,7 +285,9 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 <!-- ============================ FOOTER ============================ -->
 <p align="center">
   <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="footer" /> -->
+  <a href="https://github.com/arhamansari11" target="_blank">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=120&section=footer&text=Let%27s%20build%20something%20meaningful&fontSize=18&fontColor=ffffff&fontAlignY=75" />
+  </a>
 </p>
 
 

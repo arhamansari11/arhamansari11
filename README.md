@@ -32,6 +32,29 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 <!-- Bio -->
 
 
+
+
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About Me:
+
+
+
+- **@[Stanford Code in Place 2026](https://digitalcredential.stanford.edu/check/4FC4EE6F100BFF275A11656A84B7F529EB92030B46601BCB7E11333380B49545c3FXanB6VTNmaDhaNzIyVkRUVEdhUmxDYWU4WUhRVW94elcxVlVZeWd6b2JNdEZQ)** Selected as Section Leader among ~1400 all over the world to teach **CS106A** to 10-15 group of international students
+- **@GitHub**: Ranked **[7th](https://www.linkedin.com/feed/update/urn:li:activity:7215757332260016129/)** among the most active contributors in Pakistan with **[700 Days](https://www.linkedin.com/feed/update/urn:li:activity:7462560257110650880/)** of coding consistency.
+- **@LeetCode**: Solved **[450+](https://leetcode.com/u/arhamansari12/)** Data Structures & Algorithms problems.
+- **@Advent of Code 2024**: Ranked [49th globally](https://www.linkedin.com/feed/update/urn:li:activity:7277710038784200704/) out of 252,895 coders and topped in several private leaderboards.
+- **@Meta Hacker Cup**: Participated in [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121), collaborating with international engineers to solve challenging problems.
+-  **@lablab.ai**: Competed in multiple international AI hackathons with a global team and won the [Unhallucinate Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/).
+-  **@UC Berkeley CALICO Spring 2025**: Competed in the global coding challenge, where my team ranked [260/865 teams](https://shorturl.at/O0iAq).
+- **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingjourney-consistency-discipline-activity-7316542143076986880-KF-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)**: More than 100 WPM.
+> Grateful for your visit! Check out my work, reach out anytime, and let’s collaborate to turn ideas into reality.
+
+
+
+
+
+
+
 #
 
 ## My Skill Set 🛠️:
@@ -100,6 +123,17 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
  </td> 
 </tr>
 </table> -->
+
+
+
+
+
+
+
+
+
+
+
 
 
 
